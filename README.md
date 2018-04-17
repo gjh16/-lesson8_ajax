@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 17, 2018
 
 ### Student Name:  
-(First and Last Name)
+Glennetria J. Harold
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Be able to build an application that shows the user information about a movie they
+enter using jQuery and AJAX methods and information from a 3rd party.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gjh16.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to used AJAX to allow the user to send and recieve HTTP request and responses.
+2. Leanred how to build an application using an Application Programming Interface (API)
+to access 3rd party data.
+3. Learned how to parse JSON data from a 3rd party HTTP response message.
